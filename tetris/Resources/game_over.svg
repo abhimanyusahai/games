@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 744.09448819 1052.3622047"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="game_over.svg"
+   inkscape:export-filename="/Users/abhimanyusahai/Documents/code-projects/sfml/tetris/tetris/Resources/game_over.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="2"
+     inkscape:cx="162.11426"
+     inkscape:cy="142.49623"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1366"
+     inkscape:window-height="672"
+     inkscape:window-x="0"
+     inkscape:window-y="1"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#fff6d5;fill-opacity:1;stroke:none;stroke-width:0.986;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect4138"
+       width="300"
+       height="200"
+       x="0"
+       y="852.36218"
+       ry="0.11507748" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4144"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:7.5px;line-height:125%;font-family:Minecraft;-inkscape-font-specification:'Minecraft Medium';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="translate(-224.00586,517.2162)"><flowRegion
+         id="flowRegion4146"><rect
+           id="rect4148"
+           width="167.68533"
+           height="26.263969"
+           x="299.00516"
+           y="383.6412"
+           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:Minecraft;-inkscape-font-specification:'Minecraft Medium'" /></flowRegion><flowPara
+         id="flowPara4150"><flowSpan
+           style="font-size:25px;fill:#504416"
+           id="flowSpan4152">GAME OVER!</flowSpan></flowPara></flowRoot>    <rect
+       style="fill:#ff6600;fill-opacity:1;stroke:none;stroke-width:0.986;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect5445"
+       width="100.0051"
+       height="50.507626"
+       x="40"
+       y="951.85455"
+       ry="9.0436535" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot5447"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:7.5px;line-height:125%;font-family:Minecraft;-inkscape-font-specification:'Minecraft Medium';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="translate(-226.07227,480.07678)"><flowRegion
+         id="flowRegion5449"><rect
+           id="rect5451"
+           width="78.928574"
+           height="32.499973"
+           x="271.07144"
+           y="487.00507"
+           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:Minecraft;-inkscape-font-specification:'Minecraft Medium'" /></flowRegion><flowPara
+         id="flowPara5453"
+         style="font-size:21.25px;fill:#ffffff;fill-opacity:1">RESET</flowPara></flowRoot>    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.986;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect5455"
+       width="10"
+       height="27.5"
+       x="122.71344"
+       y="962.86218"
+       ry="0" />
+    <rect
+       style="fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.986;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect5497"
+       width="100"
+       height="50"
+       x="160"
+       y="952.36218"
+       ry="9.0436497" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot5499"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:7.5px;line-height:125%;font-family:Minecraft;-inkscape-font-specification:'Minecraft Medium';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="translate(0,4.2213067)"><flowRegion
+         id="flowRegion5501"><rect
+           id="rect5503"
+           width="77.5"
+           height="30"
+           x="168"
+           y="962.86218"
+           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:Minecraft;-inkscape-font-specification:'Minecraft Medium'" /></flowRegion><flowPara
+         id="flowPara5505"
+         style="font-size:21.25px;fill:#ffffff;fill-opacity:1">QUIT</flowPara></flowRoot>    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.986;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect5580"
+       width="6"
+       height="25"
+       x="-402.37985"
+       y="910.20197"
+       transform="matrix(0.79637309,-0.60480568,0.60480568,0.79637309,0,0)" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.986;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect5582"
+       width="6"
+       height="25"
+       x="816.60626"
+       y="569.8476"
+       transform="matrix(0.75704859,0.65335858,-0.65335858,0.75704859,0,0)" />
+  </g>
+</svg>
